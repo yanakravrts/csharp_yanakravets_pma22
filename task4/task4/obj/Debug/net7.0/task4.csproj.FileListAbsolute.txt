@@ -1,0 +1,15 @@
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.csproj.AssemblyReference.cache
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.AssemblyInfoInputs.cache
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.AssemblyInfo.cs
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.csproj.CoreCompileInputs.cache
+/Users/yanakravets/Progsharp/task4/task4/bin/Debug/net7.0/task4
+/Users/yanakravets/Progsharp/task4/task4/bin/Debug/net7.0/task4.deps.json
+/Users/yanakravets/Progsharp/task4/task4/bin/Debug/net7.0/task4.runtimeconfig.json
+/Users/yanakravets/Progsharp/task4/task4/bin/Debug/net7.0/task4.dll
+/Users/yanakravets/Progsharp/task4/task4/bin/Debug/net7.0/task4.pdb
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.dll
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/refint/task4.dll
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.pdb
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/task4.genruntimeconfig.cache
+/Users/yanakravets/Progsharp/task4/task4/obj/Debug/net7.0/ref/task4.dll
